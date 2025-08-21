@@ -1,0 +1,5 @@
+DROP DATABASE IF EXISTS `auth_app`;
+
+CREATE DATABASE IF NOT EXISTS `auth_app`;
+
+USE `auth_app`;
