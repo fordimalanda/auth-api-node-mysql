@@ -1,0 +1,20 @@
+{
+  "name": "auth-api-node-mysql",
+  "version": "1.0.0",
+  "description": "Une API RESTful moderne et sécurisée pour la gestion de l'authentification utilisateur, construite avec **Node.js**, **Express** et **MySQL**. Ce projet demonstrates la mise en œuvre de **JWT** (JSON Web Tokens) pour les sessions, du hachage de mot de passe avec **bcrypt**, et inclut un système d'audit pour journaliser toutes les tentatives de connexion.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fordimalanda/auth-api-node-mysql.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fordimalanda/auth-api-node-mysql/issues"
+  },
+  "homepage": "https://github.com/fordimalanda/auth-api-node-mysql#readme"
+}
